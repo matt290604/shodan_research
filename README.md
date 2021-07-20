@@ -24,7 +24,7 @@ Have a nice day, Merry Christmas and Happy New Year.
 python3 shodan-parser.py -o <Output file name>.txt -v <Input file name>.json
 然後再丟入excel
 
-基本上python的搜尋規則都可以套用在shoda上面，除了CVE搜尋，我目前還沒找到直接在shodan上搜尋CVE的方法。
+基本上python的搜尋規則都可以套用在shoda上面，除了CVE搜尋! 我目前還沒找到直接在shodan上搜尋CVE的方法。
 如您有任何建議可以寄信給我，收到您的建議後我會更新。  
   
 這個程式的用途我寫在ppt跟word裡面。
