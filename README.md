@@ -21,13 +21,14 @@ Have a nice day, Merry Christmas and Happy New Year.
 
 這個程式僅供學術研究用，請勿用於犯罪上或是商業行為。  
   
-這個程式本來是用於分析shodan的josn檔案，首先下載你在shodan搜尋的檔案，他會是一個josn檔，之後只要輸入 
+這個程式本來是用於分析shodan的json檔案，首先下載你在shodan搜尋的檔案，他會是一個json檔，之後只要輸入 
     
     python3 shodan-parser.py -o <Output file name>.txt -v <Input file name>.json
 
 然後再丟入excel
 
-基本上python的搜尋規則都可以套用在shoda上面，除了CVE搜尋! 我目前還沒找到直接在shodan上搜尋CVE的方法。
+基本上python的搜尋規則都可以套用在shodan上面，除了CVE搜尋! 我目前還沒找到直接在shodan上搜尋CVE的方法。
+*7/22測試後，發現是我自己的等級不夠高。也就是說各位只會員等級夠高就可以直接在shodan上搜尋：vuln:"CVE"
 
 如您有任何建議可以寄信給我，收到您的建議後我會更新。  
   
