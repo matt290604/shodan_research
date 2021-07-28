@@ -35,6 +35,8 @@ Have a nice day, Merry Christmas and Happy New Year.
 這個程式的用途我寫在ppt跟word裡面。
 
 祝各位使用愉快。
+    
+    https://www.youtube.com/watch?v=cBpDf0YDekw
 
 my e-mail matt290604@hotmail.com 
 
