@@ -33,10 +33,12 @@ Have a nice day, Merry Christmas and Happy New Year.
 如您有任何建議可以寄信給我，收到您的建議後我會更新。  
   
 這個程式的用途我寫在ppt跟word裡面。
+    
+     當時報告的影片 https://www.youtube.com/watch?v=cBpDf0YDekw
 
 祝各位使用愉快。
     
-    https://www.youtube.com/watch?v=cBpDf0YDekw
+
 
 my e-mail matt290604@hotmail.com 
 
